@@ -1,0 +1,46 @@
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "layout": "splitv",
+    "floating": "auto_off",
+    "nodes": [
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 457,
+               "width": 722,
+               "x": 0,
+               "y": 0
+            },
+            "name": "neemu@celtic: ~",
+            "percent": 0.7,
+            "swallows": [
+               {
+                   "class": ""
+               }
+            ],
+            "type": "con"
+        },
+        {
+            "border": "normal",
+            "current_border_width": 2,
+            "floating": "auto_off",
+            "geometry": {
+               "height": 457,
+               "width": 722,
+               "x": 0,
+               "y": 0
+            },
+            "name": "neemu@celtic: ~",
+            "percent": 0.3,
+            "swallows": [
+               {
+                   "class": ""
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
